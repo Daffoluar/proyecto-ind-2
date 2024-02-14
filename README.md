@@ -20,3 +20,5 @@ El Análisis Exploratorio de Datos (EDA) busca identificar patrones y relaciones
 ### Conclusión:
 
 El análisis de accidentes mortales de tráfico en CABA entre 2016 y 2021 proporciona información valiosa para la toma de decisiones orientadas a mejorar la seguridad vial en la ciudad. Los datos procesados y analizados en este proyecto pueden ser utilizados por las autoridades pertinentes para implementar medidas preventivas y estrategias que reduzcan la incidencia de estos trágicos eventos. Este proyecto refleja el compromiso con la seguridad y el bienestar de los ciudadanos de Buenos Aires, y demuestra el potencial del análisis de datos para abordar problemas sociales importantes.
+
+Mi información de contacto: [LinkedIn](https://www.linkedin.com/in/dante-miceli-15a5a0221/)
