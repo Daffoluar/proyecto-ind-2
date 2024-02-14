@@ -1,4 +1,4 @@
-# Proyecto Individual: Análisis de Accidentes Mortales de Tráfico en CABA (2016-2021)
+# Proyecto Individual: Análisis de Siniestros Viales de Tráfico en CABA (2016-2021)
 ### Introducción:
 
 Este proyecto simula el trabajo de un Analista de Datos en una consultora, con el objetivo de llevar a cabo un análisis de datos solicitado por el Observatorio de Movilidad y Seguridad Vial (OMSV) de la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires (CABA).
